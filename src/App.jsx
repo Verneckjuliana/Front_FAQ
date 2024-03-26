@@ -30,9 +30,6 @@ function App() {
       </div>
 
       <div className="footer">
-        <p className="footer-text">
-          © 2024 Robert Bosch. Todos los derechos reservados.
-        </p>
         <img className="faixa2" src={Faixa} alt="faixa bosch" />
       </div>
     </div>
